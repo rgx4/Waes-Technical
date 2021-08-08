@@ -19,6 +19,9 @@ namespace WaesTechnical.Domain.Models
         {
             Message = message;
         }
+
+        public GetResponse() { }
+       
     }
 }
 

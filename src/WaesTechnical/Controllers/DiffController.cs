@@ -26,6 +26,12 @@ namespace WaesTechnical.Controllers
 
         #region Creates
 
+        /// <summary>
+        /// Create the left side data from the received id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="input"></param>
+        /// <returns></returns>
         [HttpPost]
         [Route("{id}/left")]
         public async Task<IActionResult> CreateLeft([FromRoute] int id, [FromBody] DataInput input)
@@ -42,7 +48,12 @@ namespace WaesTechnical.Controllers
                     StatusCode(StatusCodes.Status500InternalServerError, JsonConvert.SerializeObject(MessagesConsts.UNEXPECTED_ERROR_MESSAGE));
             }
         }
-
+        /// <summary>
+        /// Create the right side data from the received id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="input"></param>
+        /// <returns></returns>
         [HttpPost]
         [Route("/diff/v1/{id}/right")]
         public async Task<IActionResult> CreateRight([FromRoute] int id, [FromBody] DataInput input)
@@ -64,7 +75,12 @@ namespace WaesTechnical.Controllers
         #endregion
 
         #region Get
-
+        /// <summary>
+        /// Get the difference of the data from the selected id
+        /// The two sides must have registered data
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet]
         [Route("/diff/v1/{id}")]
         public async Task<IActionResult> Get([FromRoute] int id)

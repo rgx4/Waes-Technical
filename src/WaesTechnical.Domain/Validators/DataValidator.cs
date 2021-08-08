@@ -21,6 +21,12 @@ namespace WaesTechnical.Validators
             _diffService = diffService;
         }
 
+        /// <summary>
+        /// Check the conditions to register the data on the database
+        /// Must be: Not empty or null, not duplicated, and a valid base64 data
+        /// </summary>
+        /// <param name="dataDto"></param>
+        /// <returns></returns>
         public async Task IsValid(DataDto dataDto)
         {
             try
@@ -40,6 +46,14 @@ namespace WaesTechnical.Validators
 
         }
 
+        /// <summary>
+        /// Validate the data get from the database
+        /// The two sides must be filled
+        /// Returns a different message depending on the validate
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="datas"></param>
+        /// <returns></returns>
         public Task ValidateGet(int id, List<DataDto> datas)
         {
             if (datas.Count == 0)
@@ -51,6 +65,12 @@ namespace WaesTechnical.Validators
             return Task.CompletedTask;
         }
 
+        /// <summary>
+        /// Validate the filled side of the data
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="datas"></param>
+        /// <returns></returns>
         public string ValidateFilledSide(int id, List<DataDto> datas)
         {
             if (datas[0].Side == (int)SideEnum.Left)
@@ -58,7 +78,10 @@ namespace WaesTechnical.Validators
             else
                 return $"The ID '{id}' have only the right side filled";
         }
-
+        /// <summary>
+        /// Check if the posted data is a valid base64 encoded
+        /// </summary>
+        /// <param name="input"></param>
         public void IsBase64Data(string input)
         {
             try

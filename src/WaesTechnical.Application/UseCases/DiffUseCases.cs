@@ -30,7 +30,11 @@ namespace WaesTechnical.Application.UseCases
             _mapper = mapper;
             _diffCount = diffCount;
         }
-
+        /// <summary>
+        /// Process the received data, validate and generate the information on database
+        /// </summary>
+        /// <param name="model"></param>
+        /// <returns></returns>
         public async Task<CreateResponse> CreateData(DataModel model)
         {
             var input = _mapper.Map<DataDto>(model);
@@ -44,7 +48,12 @@ namespace WaesTechnical.Application.UseCases
 
             throw new Exception(MessagesConsts.UNEXPECTED_ERROR_MESSAGE);
         }
-
+        /// <summary>
+        /// Get the stored information related to the id.
+        /// Validate left and right sides and make the calculation of the differences between the data
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public async Task<GetResponse> GetDiffById(int id)
         {
             var datas = await _diffService.GetDataById(id);

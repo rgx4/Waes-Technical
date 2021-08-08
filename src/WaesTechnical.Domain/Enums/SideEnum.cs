@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace WaesTechnical.Domain.Enums
 {
-    public enum SideEnum
+    public enum SideEnum : int
     {
         Left = 1,
         Right = 2

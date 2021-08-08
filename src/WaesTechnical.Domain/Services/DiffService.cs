@@ -21,7 +21,11 @@ namespace WaesTechnical.Domain.Services
             _dataRepository = dataRepository;
             _mapper = mapper;
         }
-
+        /// <summary>
+        /// Call the repository to post the data on the database
+        /// </summary>
+        /// <param name="input"></param>
+        /// <returns></returns>
         public async Task<bool> InsertData(DataDto input)
         {
             try
@@ -34,7 +38,11 @@ namespace WaesTechnical.Domain.Services
                 throw;
             }
         }
-
+        /// <summary>
+        /// Call the repository to get the data on the database
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public async Task<List<DataDto>> GetDataById(int id)
         {
             try
@@ -47,7 +55,11 @@ namespace WaesTechnical.Domain.Services
                 throw;
             }
         }
-
+        /// <summary>
+        /// Check if the ID already have some information registered on the database
+        /// </summary>
+        /// <param name="data"></param>
+        /// <returns></returns>
         public async Task<bool> IsDuplicated(DataDto data)
         {
             try
