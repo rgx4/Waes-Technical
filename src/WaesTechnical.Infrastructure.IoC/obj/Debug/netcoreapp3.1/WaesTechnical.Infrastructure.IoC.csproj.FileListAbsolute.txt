@@ -1,0 +1,32 @@
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.deps.json
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.pdb
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Application.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Domain.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Application.pdb
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Domain.pdb
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.pdb
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.csprojAssemblyReference.cache
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.AssemblyInfoInputs.cache
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.AssemblyInfo.cs
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.csproj.CoreCompileInputs.cache
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.csproj.CopyComplete
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure.IoC\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.pdb
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.deps.json
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.pdb
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Application.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Domain.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Application.pdb
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Domain.pdb
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.pdb
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.csprojAssemblyReference.cache
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.AssemblyInfoInputs.cache
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.AssemblyInfo.cs
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.csproj.CoreCompileInputs.cache
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.csproj.CopyComplete
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Infrastructure.IoC\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.pdb
