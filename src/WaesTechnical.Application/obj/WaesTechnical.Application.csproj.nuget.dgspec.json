@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Application\\WaesTechnical.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Application\\WaesTechnical.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Application\\WaesTechnical.Application.csproj",
+        "projectName": "WaesTechnical.Application",
+        "projectPath": "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Application\\WaesTechnical.Application.csproj",
+        "packagesPath": "C:\\Users\\rgxm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rgxm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Domain\\WaesTechnical.Domain.csproj": {
+                "projectPath": "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Domain\\WaesTechnical.Domain.csproj"
+              },
+              "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Infrastructure\\WaesTechnical.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Infrastructure\\WaesTechnical.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Domain\\WaesTechnical.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Domain\\WaesTechnical.Domain.csproj",
+        "projectName": "WaesTechnical.Domain",
+        "projectPath": "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Domain\\WaesTechnical.Domain.csproj",
+        "packagesPath": "C:\\Users\\rgxm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rgxm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Infrastructure\\WaesTechnical.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Infrastructure\\WaesTechnical.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Infrastructure\\WaesTechnical.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Infrastructure\\WaesTechnical.Infrastructure.csproj",
+        "projectName": "WaesTechnical.Infrastructure",
+        "projectPath": "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Infrastructure\\WaesTechnical.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\rgxm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rgxm\\Documents\\DEV\\Repositorios GIT\\Waes-Technical\\src\\WaesTechnical.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rgxm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WaesTechnical.Application\WaesTechnical.Application.csproj" />
+    <ProjectReference Include="..\WaesTechnical.Domain\WaesTechnical.Domain.csproj" />
+    <ProjectReference Include="..\WaesTechnical.Infrastructure\WaesTechnical.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,100 @@
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.exe
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.deps.json
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.runtimeconfig.json
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.runtimeconfig.dev.json
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.pdb
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Application.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Domain.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Application.pdb
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.pdb
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.pdb
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Domain.pdb
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.csprojAssemblyReference.cache
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.AssemblyInfoInputs.cache
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.AssemblyInfo.cs
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.csproj.CoreCompileInputs.cache
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\obj\Debug\netcoreapp3.1\staticwebassets\WaesTechnical.StaticWebAssets.Manifest.cache
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\obj\Debug\netcoreapp3.1\staticwebassets\WaesTechnical.StaticWebAssets.xml
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\obj\Debug\netcoreapp3.1\scopedcss\bundle\WaesTechnical.styles.css
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.RazorTargetAssemblyInfo.cache
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.csproj.CopyComplete
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.pdb
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.genruntimeconfig.cache
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.csprojAssemblyReference.cache
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.AssemblyInfoInputs.cache
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.AssemblyInfo.cs
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.csproj.CoreCompileInputs.cache
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.pdb
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.exe
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.deps.json
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.runtimeconfig.json
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.runtimeconfig.dev.json
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.pdb
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Application.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Domain.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Application.pdb
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.IoC.pdb
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.pdb
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\bin\Debug\netcoreapp3.1\WaesTechnical.Domain.pdb
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\obj\Debug\netcoreapp3.1\staticwebassets\WaesTechnical.StaticWebAssets.Manifest.cache
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\obj\Debug\netcoreapp3.1\staticwebassets\WaesTechnical.StaticWebAssets.xml
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\obj\Debug\netcoreapp3.1\scopedcss\bundle\WaesTechnical.styles.css
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.RazorTargetAssemblyInfo.cache
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.csproj.CopyComplete
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical\obj\Debug\netcoreapp3.1\WaesTechnical.genruntimeconfig.cache

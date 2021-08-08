@@ -1,0 +1,8 @@
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.deps.json
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.pdb
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.AssemblyInfo.cs
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Infrastructure\obj\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.pdb

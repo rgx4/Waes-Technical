@@ -1,0 +1,24 @@
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Domain\bin\Debug\netcoreapp3.1\WaesTechnical.Domain.deps.json
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Domain\bin\Debug\netcoreapp3.1\WaesTechnical.Domain.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Domain\bin\Debug\netcoreapp3.1\WaesTechnical.Domain.pdb
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Domain\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Domain\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.pdb
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Domain\obj\Debug\netcoreapp3.1\WaesTechnical.Domain.csprojAssemblyReference.cache
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Domain\obj\Debug\netcoreapp3.1\WaesTechnical.Domain.AssemblyInfoInputs.cache
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Domain\obj\Debug\netcoreapp3.1\WaesTechnical.Domain.AssemblyInfo.cs
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Domain\obj\Debug\netcoreapp3.1\WaesTechnical.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Domain\obj\Debug\netcoreapp3.1\WaesTechnical.Domain.csproj.CopyComplete
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Domain\obj\Debug\netcoreapp3.1\WaesTechnical.Domain.dll
+C:\Users\rgxm\Documents\DEV\WaesTechnical\WaesTechnical.Domain\obj\Debug\netcoreapp3.1\WaesTechnical.Domain.pdb
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Domain\bin\Debug\netcoreapp3.1\WaesTechnical.Domain.deps.json
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Domain\bin\Debug\netcoreapp3.1\WaesTechnical.Domain.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Domain\bin\Debug\netcoreapp3.1\WaesTechnical.Domain.pdb
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Domain\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Domain\bin\Debug\netcoreapp3.1\WaesTechnical.Infrastructure.pdb
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Domain\obj\Debug\netcoreapp3.1\WaesTechnical.Domain.csprojAssemblyReference.cache
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Domain\obj\Debug\netcoreapp3.1\WaesTechnical.Domain.AssemblyInfoInputs.cache
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Domain\obj\Debug\netcoreapp3.1\WaesTechnical.Domain.AssemblyInfo.cs
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Domain\obj\Debug\netcoreapp3.1\WaesTechnical.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Domain\obj\Debug\netcoreapp3.1\WaesTechnical.Domain.csproj.CopyComplete
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Domain\obj\Debug\netcoreapp3.1\WaesTechnical.Domain.dll
+C:\Users\rgxm\Documents\DEV\Repositorios GIT\Waes-Technical\src\WaesTechnical.Domain\obj\Debug\netcoreapp3.1\WaesTechnical.Domain.pdb
